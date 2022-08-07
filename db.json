@@ -1,0 +1,35 @@
+{
+  "posts": [
+    {
+      "id": "2",
+      "title": "post two edited",
+      "body": "post two body",
+      "publishedAt": "2020-10-11"
+    },
+    {
+      "id": "3",
+      "title": "post three",
+      "body": "post three body",
+      "publishedAt": "10-10-2020"
+    },
+    {
+      "title": "A very first blog",
+      "body": "One new body",
+      "publishedAt": "10-02-2020",
+      "id": "KfHUSFu"
+    },
+    {
+      "title": "One title",
+      "body": "being created by react admin",
+      "publishedAt": "2022-08-08",
+      "id": "8t9pYv0"
+    }
+  ],
+  "users": [
+    {
+      "id": "1",
+      "name": "parsa jafari",
+      "email": "parsaj79@gmail.com"
+    }
+  ]
+}
